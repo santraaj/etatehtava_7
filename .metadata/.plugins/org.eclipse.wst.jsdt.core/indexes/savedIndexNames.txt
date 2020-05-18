@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\asran\Desktop\IT-tradenomi\Ohjelmointi 2\Viikko 7\Etatehtavat_7\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4104656195.index
+2926556084.index
+374088388.index
+2188053362.index
+1121383530.index
+2993656568.index
+3390846095.index

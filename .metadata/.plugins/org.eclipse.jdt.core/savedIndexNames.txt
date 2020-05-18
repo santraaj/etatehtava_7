@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\asran\Desktop\IT-tradenomi\Ohjelmointi 2\Viikko 7\Etatehtavat_7\.metadata\.plugins\org.eclipse.jdt.core
+1432669214.index
+374088388.index
